@@ -1,0 +1,3 @@
+elasticsearch.egg-info/
+nosetests.xml
+docs/sphinx/_build/
